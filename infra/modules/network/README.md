@@ -1,0 +1,1 @@
+A simple module to create virtual network on azure 
